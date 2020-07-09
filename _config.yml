@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Ning Wang"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "postdoctoral researsher on big-data-driven materials science"
+  location         : "Düsseldorf"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com.hk/citations?hl=en&user=uXvjdJkAAAAJ&scilu=&scisig=AMD79ooAAAAAXwcl3ZdAUj0vgl_9pjY1mv_385omWv3h&gmla=AJsN-F7Q9qEcJXZg-_Qd9jCIWdiaYhZTyxfclsRu0f1YXxVphNhfxbvshaf6fMGibl3nq2lMuk5-dm63OYe5GwNNVY6ib51DCHuH1E4acW2Y1nUCOBbF-fU&sciund=12918237854524986357"
   email            : nwang@mpie.de
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -175,9 +175,9 @@ kramdown:
 
 # Collections
 collections:
-  #teaching:
-  #  output: true
-  #  permalink: /:collection/:path/
+  teaching:
+    output: false
+    permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
