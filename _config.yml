@@ -11,9 +11,9 @@ title                    : "Ning Wang / Dr"
 title_separator          : "-"
 name                     : &name "Ning Wang"
 description              : &I am a postdoctoral researcher at Max-Planck-Institut für Eisenforschung GMBH. "
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://NingWang1990.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "NingWang1990/NingWang1990.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               :
 facebook:
   username               :
   app_id                 :
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Ning Wang"
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Location"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  googlescholar    : "https://scholar.google.com.hk/citations?hl=en&user=uXvjdJkAAAAJ&scilu=&scisig=AMD79ooAAAAAXwcl3ZdAUj0vgl_9pjY1mv_385omWv3h&gmla=AJsN-F7Q9qEcJXZg-_Qd9jCIWdiaYhZTyxfclsRu0f1YXxVphNhfxbvshaf6fMGibl3nq2lMuk5-dm63OYe5GwNNVY6ib51DCHuH1E4acW2Y1nUCOBbF-fU&sciund=12918237854524986357"
+  email            : nwang@mpie.de
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "NingWang1990"
   google_plus      :
   keybase          :
   instagram        :
