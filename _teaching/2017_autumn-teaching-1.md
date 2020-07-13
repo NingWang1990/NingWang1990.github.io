@@ -9,12 +9,3 @@ location: "Bochum, Germany"
 ---
 
 Teaching assistant for graduate course "Advanced Atomistic Simulations"
-
-#Heading 1
-#======
-
-#Heading 2
-#======
-
-#Heading 3
-#======
