@@ -1,7 +1,7 @@
 ---
 title: "ATomistic modelling and simulations of magnetic transition metals"
 collection: publications
-permalink: /publication/2019-12  -PhD thesis    
+permalink: /publication/PhD_thesis 
 excerpt: 'This is my PhD thesis.'
 date: 2019-12  
 venue: 'PhD thesis'
