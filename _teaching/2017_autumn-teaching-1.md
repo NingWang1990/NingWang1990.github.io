@@ -1,14 +1,14 @@
 ---
-title: "Teaching experience 1"
+title: "Teaching assistant"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "Graduate course"
+permalink: /teaching/2017-autumn-teaching-1
+venue: "Ruhr--Universität Bochum, ICAMS"
+date: 2017-10-15
+location: "Bochum, Germany"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Teaching assistant for graduate course "Advanced Atomistic simulations"
 
 Heading 1
 ======
