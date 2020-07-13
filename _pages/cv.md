@@ -40,6 +40,7 @@ Skills
 * Signal processing
 * Automatic control
 * AutoCAD
+
 Publications
 ======
   <ul>{% for post in site.publications %}
