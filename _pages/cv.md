@@ -15,18 +15,21 @@ Education
 * 2016 - 2019, PhD researcher in ICAMS, Ruhr-Universität Bochum
 * 2011 - 2014, School of Materials Science and Engineering, Northwestern Polytechnical University, China
 * 2008 - 2011, Honors College, Northwestern Polytechnical University, China
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 
 Skills
 ======
 * Machine learning
   * statistial learning
   * deep learning
+  * Monte Carlo sampling
 * Programming
   * Python
   * Fortran
   * C/C++
-* Skill 3
+* Machematical modeling
+* Atomistic simulation
+  * Molecular dynamics
+  * first-principle thermodynamics
 
 Publications
 ======
