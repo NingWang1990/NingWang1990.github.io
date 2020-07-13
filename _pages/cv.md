@@ -19,8 +19,8 @@ Education
 Skills
 ======
 * Machine learning
-  * statistial learning
-  * deep learning
+  * Statistial learning
+  * Deep learning
   * Monte Carlo sampling
 * Programming
   * Python
@@ -29,8 +29,8 @@ Skills
 * Machematical modeling
 * Atomistic simulation
   * Molecular dynamics
-  * first-principle thermodynamics
-
+  * First-principle thermodynamics
+  * Density-functional theory
 Publications
 ======
   <ul>{% for post in site.publications %}
