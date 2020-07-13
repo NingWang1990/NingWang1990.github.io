@@ -28,12 +28,18 @@ Skills
   * C/C++
 * Machematical modeling
   * Numerical methods for partial differential equations
-  * statistical/quantum machanics
+  * Statistical/Quantum machanics
 * Atomistic simulation
   * Molecular dynamics
   * First-principle thermodynamics
   * Density-functional theory
-
+* High-performance computing
+* Electronic circuit design 
+  * Simulation with Spice
+  * PCB design and Assembly
+* Signal processing
+* Automatic control
+* AutoCAD
 Publications
 ======
   <ul>{% for post in site.publications %}
