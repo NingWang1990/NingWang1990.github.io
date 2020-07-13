@@ -8,7 +8,7 @@ date: 2017-10-15
 location: "Bochum, Germany"
 ---
 
-Teaching assistant for graduate course "Advanced Atomistic simulations"
+Teaching assistant for graduate course "Advanced Atomistic Simulations"
 
 #Heading 1
 #======
