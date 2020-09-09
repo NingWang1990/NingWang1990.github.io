@@ -1,5 +1,5 @@
 ---
-title: "data-driven discovery of partial differential equations from experimental data"
+title: "data-driven discovery of PDEs from experimental data"
 excerpt: " "
 collection: portfolio
 ---
