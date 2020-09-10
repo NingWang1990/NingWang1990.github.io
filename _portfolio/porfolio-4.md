@@ -3,7 +3,7 @@ title: "data-driven discovery of PDEs from experimental data"
 excerpt: " "
 collection: portfolio
 ---
-code for this project is available [here](https://github.com/NingWang1990/machine_learning_kinetics)
+code for this project is available [here](https://github.com/NingWang1990/machine_learning_dynamics)
 
 ## Introduction
 In this project, we aim to discover dynamics (partial differential equations) from in situ videos of scanning transmission electron microscopy.
