@@ -4,7 +4,7 @@ excerpt: " "
 collection: portfolio
 ---
 <p align="center">
-<img src="/images/machine_learning_steels.PNG" width="250" height="150" >
+<img src="/images/machine_learning_steels.PNG" width="800" height="400" >
 </p>
 
 ## Intorduction
