@@ -1,10 +1,8 @@
-
 ---
 title: "Hamiltonian Monte Carlo for spin systems"
 excerpt: " "
 collection: portfolio
 ---
-
 <p align="center">
 <img src="/images/magnetization_curve.png" width="700" height="400" >
 </p>
