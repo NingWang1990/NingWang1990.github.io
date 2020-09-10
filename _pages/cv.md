@@ -19,15 +19,17 @@ Education
 Skills
 ======
 * Machine learning
-  * Statistial learning
+  * Statistical learning
   * Deep learning
   * Monte Carlo sampling
 * Programming
   * Python
+  * SQL
   * Fortran
   * C/C++
 * Machematical modeling
   * Numerical methods for partial differential equations
+  * Numerical analysis
   * Statistical/Quantum machanics
 * Atomistic simulation
   * Molecular dynamics
@@ -37,7 +39,6 @@ Skills
 * Electronic circuit design 
   * Simulation with Spice
   * PCB design and Assembly
-* Signal processing
 * Automatic control
 * AutoCAD
 
