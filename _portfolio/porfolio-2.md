@@ -5,7 +5,7 @@ collection: portfolio
 ---
 
 <p align="center">
-<img src="https://giphy.com/gifs/cnX46yrVsp0MRc1kaX" width="5000" height="500" >
+<img src="https://media.giphy.com/media/cnX46yrVsp0MRc1kaX/giphy.gif" width="1000" height="500" >
 </p>
 
 ### Learning more
