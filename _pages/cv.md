@@ -21,6 +21,7 @@ Skills
 * Machine learning
   * Statistical learning
   * Deep learning
+  * Bayesian learning
   * Monte Carlo sampling
 * Programming
   * Python
