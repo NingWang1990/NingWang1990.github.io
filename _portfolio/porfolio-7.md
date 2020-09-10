@@ -6,7 +6,7 @@ collection: portfolio
 ---
 
 <p align="center">
-<img src="/images/magnetization_curve.png" width="600" height="500" >
+<img src="/images/magnetization_curve.png" width="700" height="400" >
 </p>
 
 check out [our paper](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.99.094402) for more details of this work. 
