@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* 2019 - present, postdoctoral researcher in Max-Planck Institute, Düsseldorf (MPIE)
-* 2016 - 2019, PhD researcher in ICAMS, Ruhr-Universität Bochum. Thesis: "Atomistic modelling and simulations of magnetic transition metals"
+* 2019 - present, postdoctoral researcher at Max-Planck Institute, Düsseldorf (MPIE)
+* 2016 - 2019, PhD researcher at ICAMS, Ruhr-Universität Bochum. Thesis: "Atomistic modelling and simulations of magnetic transition metals"
 * 2011 - 2014, School of Materials Science and Engineering, Northwestern Polytechnical University, China
 * 2008 - 2011, Honors College, Northwestern Polytechnical University, China
 
