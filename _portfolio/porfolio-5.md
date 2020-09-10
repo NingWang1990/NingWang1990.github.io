@@ -6,7 +6,7 @@ collection: portfolio
 <p align="center">
 <img src="/images/magnetic_potential_neural_network.png" width="5000" height="500" >
 </p>
-check out chapter 6 of [PhD thesis](https://hss-opus.ub.rub.de/opus4/frontdoor/deliver/index/docId/7138/file/diss.pdf) for more details of this work
+check out chapter 6 of [my PhD thesis](https://hss-opus.ub.rub.de/opus4/frontdoor/deliver/index/docId/7138/file/diss.pdf) for more details of this work
 ## Introduction
 Artificial intelligence (AI) has been referred to as the “fourth industrial revolution”. As the core of AI, the application of machine learning has gone beyond industry
 and drives a new way for researchers to extract physical laws or knowledge from experiments or simulations. In computational materials science, a well-known
