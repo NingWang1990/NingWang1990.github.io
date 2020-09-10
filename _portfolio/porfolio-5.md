@@ -7,7 +7,7 @@ collection: portfolio
 <img src="/images/magnetic_potential_neural_network.png" width="5000" height="500" >
 </p>
 
-check out chapter 6 of [here](https://d-nb.info/1211178536/34) for more details of this work.
+check out chapter 6 of [my PhD thesis](https://d-nb.info/1211178536/34) for more details of this work.
 
 ## Introduction
 Artificial intelligence (AI) has been referred to as the “fourth industrial revolution”. As the core of AI, the application of machine learning has gone beyond industry
