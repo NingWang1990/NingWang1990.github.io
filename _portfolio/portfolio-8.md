@@ -18,7 +18,7 @@ collection: portfolio
 </p>
 
 <p align="center">
-<img src="/images/result_amplifier.jpg" width="700" height="400" >
+<img src="/images/result_amplifier.png" width="700" height="400" >
 </p>
 
 <p align="center">
