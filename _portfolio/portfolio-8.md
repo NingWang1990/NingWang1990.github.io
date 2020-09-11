@@ -4,7 +4,7 @@ excerpt: " "
 collection: portfolio
 ---
 ## Introduction
-This work looks very different from the others in my portfolio. Actually, it is the diploma project that I did in China in 2012. It was a beautiful memory in a real lab, and since then, I have been a theoretician and had little chance to go into physical labs. 
+This work looks very different from the others in my portfolio. Actually, it is the diploma project that I did in China in 2012. It was a beautiful memory in a real lab, and since then, I have been working as a theoretician and had little chance to go into physical labs. 
 The aim of this project is to fabricate an amplier for the CdZnTe gamma-ray sensor. CdZnTe is a novel semiconductor sensor for radiation detection, with high sensitivity and energy resolution. It converts gamma rays to photocurrent, and the latter can then be collected and analyzed with electronic devices. In this work, I fabricated an amplifier in order to collect the photocurrent induced by gamma rays. It consists of two part, the preamplifier and the main amplifier. The preamplifier performs an integration on the photocurrent and convert it to a voltage signal, which is then further amplified by the main amplifier. The final amplifier is shown in Fig. 1, and the energy spectrum of Am-241 measured with my amplifier is shown in Fig. 2. I finally obtained a very good energy resolution, ~10%,  for the main peak in the energy spectrum of Am-241.
 
 
