@@ -5,7 +5,7 @@ collection: portfolio
 ---
 
 <p align="center">
-<img src="/images/amplifier.jpg" width="500" height="400" >
+<img src="/images/amplifier.jpg" width="700" height="400" >
 </p>
 <p align="center">
 <img src="/images/main_amplifier.png" width="700" height="400" >
