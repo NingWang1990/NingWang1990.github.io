@@ -26,7 +26,7 @@ collection: portfolio
 </p>
 
 <p align="center">
-<img src="/images/preamplifier.png" width="700" height="400" >
+<img src="/images/preamplifier.png" width="600" height="300" >
 </p>
 
 
