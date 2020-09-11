@@ -28,6 +28,8 @@ Skills
   * SQL
   * Fortran
   * C/C++
+  * Bash
+  * Linux
 * Machematical modeling
   * Numerical methods for partial differential equations
   * Numerical analysis
