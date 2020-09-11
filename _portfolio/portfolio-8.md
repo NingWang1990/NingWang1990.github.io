@@ -5,6 +5,10 @@ collection: portfolio
 ---
 
 <p align="center">
+  Fig. 1 Amplifier for Gamma ray sensors
+</p>
+<p align="center">
+ 
 <img src="/images/amplifier.jpg" width="700" height="400" >
 </p>
 <p align="center">
