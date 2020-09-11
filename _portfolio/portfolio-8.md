@@ -7,10 +7,15 @@ collection: portfolio
 <p align="center">
   Fig. 1 Amplifier for Gamma ray sensors
 </p>
+
 <p align="center">
- 
 <img src="/images/amplifier.jpg" width="700" height="400" >
 </p>
+
+<p align="center">
+  Fig. 2 Circuir diagram
+</p>
+
 <p align="center">
 <img src="/images/main_amplifier.png" width="700" height="400" >
 </p>
