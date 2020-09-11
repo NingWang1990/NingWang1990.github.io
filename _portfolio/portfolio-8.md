@@ -12,8 +12,17 @@ collection: portfolio
 <img src="/images/amplifier.jpg" width="700" height="400" >
 </p>
 
+
 <p align="center">
-  Fig. 2 Circuir diagram for the main amplifier
+  Fig. 2 Energy spectrum of Am-241 obtained with my amplifier
+</p>
+
+<p align="center">
+<img src="/images/result_amplifier.jpg" width="700" height="400" >
+</p>
+
+<p align="center">
+  Fig. 3 Circuir diagram for the main amplifier
 </p>
 
 <p align="center">
@@ -22,7 +31,7 @@ collection: portfolio
 
 
 <p align="center">
-  Fig. 3 Circuir diagram for the preamplifier
+  Fig. 4 Circuir diagram for the preamplifier
 </p>
 
 <p align="center">
