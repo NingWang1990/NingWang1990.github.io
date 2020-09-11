@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* 2019 - present, postdoctoral researcher at Max-Planck Institute, Düsseldorf (MPIE)
+* 2019 - present, postdoctoral research data scientist at Max-Planck Institute, Düsseldorf (MPIE)
 * 2016 - 2019, PhD researcher at ICAMS, Ruhr-Universität Bochum. Thesis: "Atomistic modelling and simulations of magnetic transition metals"
 * 2011 - 2014, School of Materials Science and Engineering, Northwestern Polytechnical University, China
 * 2008 - 2011, Honors College, Northwestern Polytechnical University, China
@@ -28,6 +28,8 @@ Skills
   * SQL
   * Fortran
   * C/C++
+  * Bash
+  * Linux
 * Machematical modeling
   * Numerical methods for partial differential equations
   * Numerical analysis

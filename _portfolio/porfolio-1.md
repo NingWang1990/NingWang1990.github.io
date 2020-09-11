@@ -1,5 +1,5 @@
 ---
-title: "Machine learning of phase-transition kinetics"
+title: "Learning phase-transition kinetics from experimental video"
 excerpt: " "
 collection: portfolio
 ---

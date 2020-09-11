@@ -1,5 +1,5 @@
 ---
-title: "data-driven discovery of PDEs from experimental data"
+title: "data-driven discovery of PDEs from experimental video"
 excerpt: " "
 collection: portfolio
 ---
