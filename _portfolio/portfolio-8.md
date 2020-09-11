@@ -13,11 +13,28 @@ collection: portfolio
 </p>
 
 <p align="center">
-  Fig. 2 Circuir diagram
+  Fig. 2 Circuir diagram for the main amplifier
 </p>
 
 <p align="center">
 <img src="/images/main_amplifier.png" width="700" height="400" >
+</p>
+
+
+<p align="center">
+  Fig. 2 Circuir diagram for the main amplifier
+</p>
+
+<p align="center">
+<img src="/images/main_amplifier.png" width="700" height="400" >
+</p>
+
+<p align="center">
+  Fig. 2 Circuir diagram for the preamplifier
+</p>
+
+<p align="center">
+<img src="/images/preamplifier.png" width="700" height="400" >
 </p>
 
 
