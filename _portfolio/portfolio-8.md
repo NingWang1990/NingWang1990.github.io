@@ -22,12 +22,11 @@ collection: portfolio
 
 
 <p align="center">
-  Fig. 2 Circuir diagram for the preamplifier
+  Fig. 3 Circuir diagram for the preamplifier
 </p>
 
 <p align="center">
 <img src="/images/preamplifier.png" width="600" height="300" >
 </p>
 
-
-This is the diploma project which I did in China. 
+This is the diploma project that I did in China. 
