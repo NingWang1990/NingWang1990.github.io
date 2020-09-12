@@ -13,7 +13,7 @@ If you want to learn more about this project, feel free to check out [our manusc
 
 ## Introduction
 We present an unsupervised machine learning approach for segmentation of atomic-resolution
-microscopy images. We combine symmetry-based local descriptors with classical unsupervised machine learning algorithms, and highlight that the microscopy images might be segmented in an unsupervised manner. We demonstrate in this paper the successful application to the high-angle
+microscopy images and videos. We combine symmetry-based local descriptors with classical unsupervised machine learning algorithms and highlight that the microscopy images might be segmented in an unsupervised manner. We demonstrate in this paper the successful application to the high-angle
 annular dark-field scanning Transmission electron microscopy (HAADF-STEM) images with atomic
 resolution. We release our code as a python module that reads the microscopy images and outputs
 the labels for all pixels, which is flexible to be used either as a standalone python code or as a plugin

@@ -1,5 +1,5 @@
 ---
-title: "data-driven discovery of PDEs from experimental video"
+title: "Data-driven discovery of PDEs from experimental video"
 excerpt: " "
 collection: portfolio
 ---
@@ -18,7 +18,7 @@ I divide this project into two major steps. The first step is to evaluate numeri
 The challenge in the first step comes from noise and sparsity of experimental data, and the challenge in the second step is to find the global minimum in the symbolic-equation space. To resolve the first challenge, I proposed a scheme, **deep learning total variation regularization**. To resolve the second challenge, I proposed the **spin sequential Monte Carlo** to sample the symbolic-equation space according to the **Bayesian** posterior probability distribution. 
 
 ## Deep learning total variation regularization
-Apparently, we first need to evaluate numerical derivatives. It is actually a challenging task for experimental data as they are noisy and sparse. The convential approaches, such as the finite difference method, are of little help in this scenario. Interestingly, deep learning offers an elegant way to resolve this challenge. We may parametrize a neural nework for the insitu video, which should be a smooth function of <img src="https://render.githubusercontent.com/render/math?math=%5CLarge%0Ax">, <img src="https://render.githubusercontent.com/render/math?math=%5CLarge%0Ay">, and <img src="https://render.githubusercontent.com/render/math?math=%5CLarge%0At">. In order to guarantee the smoothness, I apply the total variation regularization on the neural network, which means that I simply add a regularization term in the loss function,
+We first need to evaluate numerical derivatives, which is a challenging task for experimental data as they are noisy and sparse. The conventional approaches, such as the finite difference method, are of little help in this scenario. Interestingly, deep learning offers an elegant way to resolve this challenge. We may parametrize a neural network for the insitu video, which should be a smooth function of <img src="https://render.githubusercontent.com/render/math?math=%5CLarge%0Ax">, <img src="https://render.githubusercontent.com/render/math?math=%5CLarge%0Ay">, and <img src="https://render.githubusercontent.com/render/math?math=%5CLarge%0At">. To guarantee the smoothness, I apply the total variation regularization on the neural network, which means that I add a regularization term in the loss function,
 
 <img src="https://render.githubusercontent.com/render/math?math=%5Clarge%0Aloss%20%3D%20R(g)%20%2B%20MSE(g%2Cu)">
 
@@ -30,7 +30,7 @@ The video below is the soft-segmentation result of a real in situ STEM video,
 <p align="center">
 <img src="https://media.giphy.com/media/J2V1ppHgClb3RcA3ES/giphy.gif" width="250" height="150" >
 </p>.
-The signals at the moving interface are very noisy, which prohibits us from using the conventional methods to evaluate the numerical derivatives. Let's use DLTVR to do that.
+The signals at the moving interface are very noisy, which prohibits us from using conventional methods to evaluate the numerical derivatives. Let's use DLTVR to do that.
 
 DLTVR first smoothes the video shown above and return the smoothed video below
 <p align="center">
@@ -40,13 +40,13 @@ We can then employ the automatic differentiation implemeneted in tensorflow or p
 
 
 ## Spin sequential Monte Carlo
-In the second step, I proposed the spin sequential Monte Carlo to find the best partial differential equation (PDE) that can describe the video. I call the algorithm spin sequential Monte Carlo because I combined the sequential Monte Carlo and the spin-flip Markov chain Monte Carlo. The inspiration comes from the paper by [Ruby et al.](https://advances.sciencemag.org/content/3/4/e1602614) and [my PhD work](https://hss-opus.ub.rub.de/opus4/frontdoor/deliver/index/docId/7138/file/diss.pdf). Ruby et al. proposed that the RHS of the partial differential equation might be expressed as a linear combination of non-learn terms
+In the second step, I proposed the spin sequential Monte Carlo to find the best partial differential equation (PDE) to describe the video. I call the algorithm spin sequential Monte Carlo because I combined the sequential Monte Carlo and the spin-flip Markov chain Monte Carlo. The inspiration comes from the paper by [Ruby et al.](https://advances.sciencemag.org/content/3/4/e1602614) and [my PhD work](https://hss-opus.ub.rub.de/opus4/frontdoor/deliver/index/docId/7138/file/diss.pdf). Ruby et al. proposed that the RHS of the partial differential equation might be expressed as a linear combination of non-learn terms
 
 <img src="https://render.githubusercontent.com/render/math?math=%5CLarge%0A%5Cfrac%7B%5Cpartial%20u%7D%7B%5Cpartial%20t%7D%20%3D%20f(u%2C%20u_x%2C%20u_y%2C%20u_%7Bxx%7D%2Cu_%7Bxy%7D%2Cu_%7Byy%7D)%5Cequiv%20%5Calpha_1%20T_1%20%2B%20%20%5Calpha_2%20T_2%20%2B%20...%20%5Calpha_i%20T_i%20%2B%20...%20%5Calpha_N%20T_N%20">
 
 where <img src="https://render.githubusercontent.com/render/math?math=T_1...T_N"> are the non-linear terms in the non-linear library.  
 
-Now the key problem becomes which terms we need to select to construct the PDE. Ruby et al. proposed to use the thresholding Ridge regression, which might work well when the non-linear library is not large but become not suitable for a large non-linear library. [My PhD work](https://hss-opus.ub.rub.de/opus4/frontdoor/deliver/index/docId/7138/file/diss.pdf) on spin systems inpired me to use spin Monte Carlo sampling for this. To be more specific, we may map the linear combination of the non-linear terms onto a *Ising spin chain*. The spin up means that the corresponding term is selected, whereas the spin down means that the corresponding term is not selected. We can then use the spin-flip Markov chain Monte Carlo to sample the PDE space. To speed up sampling efficiency, I combine the spin-flip Monte Carlo with the [sequential Monte Carlo](https://link.springer.com/book/10.1007/978-1-4757-3437-9). 
+Now the key problem becomes which terms we need to select to construct the PDE. Ruby et al. proposed to use the thresholding Ridge regression, which might work well when the non-linear library is not large but become not suitable for a sizeable non-linear library. [My PhD work](https://hss-opus.ub.rub.de/opus4/frontdoor/deliver/index/docId/7138/file/diss.pdf) on spin systems inspired me to use spin Monte Carlo sampling for this. To be more specific, we may map the linear combination of the non-linear terms onto an *Ising spin chain*. The spin up means that the corresponding term is selected, whereas the spin down means that the corresponding term is not selected. We can then use the spin-flip Markov chain Monte Carlo to sample the PDE space. To speed up sampling efficiency, I combine the spin-flip Monte Carlo with the [sequential Monte Carlo](https://link.springer.com/book/10.1007/978-1-4757-3437-9). 
 
 The probability distribution for a PDE is given as the **Bayesian** posterior
 
