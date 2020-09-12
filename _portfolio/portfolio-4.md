@@ -29,7 +29,7 @@ Next, I use a simple example to demonstrate this scheme.
 The video below is the soft-segmentation result of a real in situ STEM video,
 <p align="center">
 <img src="https://media.giphy.com/media/J2V1ppHgClb3RcA3ES/giphy.gif" width="250" height="150" >
-</p>.
+</p>
 The signals at the moving interface are very noisy, which prohibits us from using conventional methods to evaluate the numerical derivatives. Let's use DLTVR to do that.
 
 DLTVR first smoothes the video shown above and return the smoothed video below
