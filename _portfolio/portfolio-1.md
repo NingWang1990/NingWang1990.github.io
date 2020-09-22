@@ -9,8 +9,8 @@ collection: portfolio
 </p>
 
 Visualize results with better resolution [here](https://drive.google.com/file/d/1QyNy-73R8cHTt2BE9qUn5ptpvA2tau5Q/view). 
+Presentation for this work is available [here](https://github.com/NingWang1990/NingWang1990.github.io/blob/master/files/learning_kinetics_2020.pdf).
 Code for this project is available [here](https://github.com/NingWang1990/machine_learning_kinetics). 
-
 ## Intorduction
 
 The phase transition is one of the most important concepts in materials science. In experiments, we are nowadays equipped with microcopies that have resolutions down to single atoms and capable of recording the process of phase transitions in in-situ experimental videos. The kinetics of phase transitions are hidden in these videos, and it is tedious and challenging to discover them manually. **How can we use machine learning to learn kinetics of phase transitions from in-situ experimental data?** This is the question we want to explore in this project. To be more specific, we try to learn a phase-field model from the in-situ experimental video.
