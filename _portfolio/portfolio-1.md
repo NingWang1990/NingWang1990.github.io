@@ -25,7 +25,8 @@ The left-hand side is the temporal derivative of the phase field. The first term
 ## Physics-informed neural network
 We employ the physics-informed neural network (Raissi et al., J. Comput. Phys. 2019) in this project. As the name dictates, the neural network is informed with physics via the loss function,
 
-<img src="https://render.githubusercontent.com/render/math?math=%5Cmathrm%7BLoss%7D%20%3D%20%5Csum_%7Bn%3D1%7D%5EN%20%5Cleft%7C%20%5Cphi(t%5En%2C%20x%5En%2C%20y%5En)%20-%20%5Cphi%5En%20%5Cright%7C%5E2%20%2B%20%5Csum_%7Bn%3D1%7D%5EN%20%5Cleft%7C%5Cmathrm%7BEqn%7D(%5Cphi(t%5En%2Cx%5En%2Cy%5En))%20%5Cright%7C%5E2">,
+<img src="https://render.githubusercontent.com/render/math?math=%5Cmathrm%7BLoss%7D%20%3D%20%5Csum_%7Bn%3D1%7D%5EN%20%5Cleft%7C%20%5Cphi(t%5En%2C%20x%5En%2C%20y%5En)%20-%20%5Cphi%5En%20%5Cright%7C%5E2%20%2B%20%5Csum_%7Bn%3D1%7D%5EN%20%5Cleft%7C%5Cmathrm%7BEqn%7D(%5Cphi(t%5En%2Cx%5En%2Cy%5En))%20%5Cright%7C%5E2">
+
 where the first term is the data fidelity term that penalizes discrepancy between the output of the neural network and data. The second term is the penalty term that penalizes inequality of the equation. In our case, the physics we want to learn is the phase-field model that describes kinetics of phase transitions. We plug the Allen-Cahn equation into the second term of the loss function above. A schematic diagram of this neural network is shown in the diagram at the top of this webpage.
 
 ## Results
