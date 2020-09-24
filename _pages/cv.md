@@ -48,13 +48,13 @@ Skills
 Prizes
 ======
 * Mathematical modeling
-  * 10. 2012, Second prize in China post-graduate mathematical contest in modeling
-  * 02. 2011, Honorable mention prize in mathematical contest in modeling of America
-  * 10. 2010, First prize in  China undergraduate mathematical contest in modeling
-  * 06. 2011, First prize in mathematical contest in modeling of Northwestern Polytechnical University
-  * 06. 2010, First prize in mathematical contest in modeling of Northwestern Polytechnical University
+  * 10/2012, Second prize in China post-graduate mathematical contest in modeling
+  * 02/2011, Honorable mention prize in mathematical contest in modeling of America
+  * 10/2010, First prize in  China undergraduate mathematical contest in modeling
+  * 06/2011, First prize in mathematical contest in modeling of Northwestern Polytechnical University
+  * 06/2010, First prize in mathematical contest in modeling of Northwestern Polytechnical University
 * Machine learning
-  * 11.2019, Bronze medal in Kaggle competition "Severstal: Steel Defect Detection"
+  * 11/2019, Bronze medal in Kaggle competition "Severstal: Steel Defect Detection"
   
 Publications
 ======
