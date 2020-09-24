@@ -42,7 +42,6 @@ Skills
 * Electronic circuit design 
   * Simulation with Spice
   * PCB design and Assembly
-* Automatic control
 * AutoCAD
 
 Publications
