@@ -1,15 +1,8 @@
 ---
-title: "BOPfox program for tight-binding and analytic bond-order potential calculations"
+title: "Influence of deep level defects on carrier lifetime in CdZnTe:In"
 collection: publications
-permalink: /publication/2019-02-01-paper-title-number-4
-excerpt: 'A coauthored paper on BOPfox program that is written in Fortran.'
-date: 2019-02-01
-venue: 'Computer Physics Communications'
-paperurl: 'https://www.sciencedirect.com/science/article/pii/S0010465518303096'
-citation: 'Hammerschmidt et al. (2019). &quot;BOPfox program for tight-binding and analytic bond-order potential calculations&quot; <i>Computer Physics Communications</i>. 235 221.'
----
-A coauthored paper on BOPfox program that is written in Fortran.
-
-[Download paper here](https://www.sciencedirect.com/science/article/pii/S0010465518303096)
-
-Recommended citation: Hammerschmidt et al. (2019). "BOPfox program for tight-binding and analytic bond-order potential calculations" <i>Computer Physics Communications</i>. 235 221.
+permalink: /publication/2015-03-05-number-5
+excerpt: 'A coauthored paper on CdZnTe radiation detectors. I was responsible for the modeling part.'
+date: 2015-03-05
+venue: 'Journal of Applied Physics'
+paperurl: 'https://aip.scitation.org/doi/abs/10.1063/1.4914159'
