@@ -6,7 +6,8 @@ collection: portfolio
 <p align="center">
 <img src="/images/machine_learning_steels.PNG" width="800" height="350" >
 </p>
-code for this project is available [here](https://github.com/NingWang1990/Machine_learning_steel). 
+<!--code for this project is available [here](https://github.com/NingWang1990/Machine_learning_steel). -->
+data and code for this project not public.
 
 ## Introduction
 In this project, we aim to build up the composition-property relationship for steels. We divide the project into two steps: 1. **dimension reduction** in the property space, shown in Fig. 1; 2. fitting the composition-property relationship with **Gaussian process regressor** and **gradient boosting tree**, with results shown in Fig. 2. The dimension reduction is necessary because we only know incomplete information about the steels in our dataset. The mechanical properties are determined by the composition and the processing. However, the latter is unknown in our dataset. 
